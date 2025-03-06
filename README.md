@@ -1,5 +1,7 @@
 # Hey there I am Dela Adoboe
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=435&lines=Data+is+My+board%2C+Strategy+is+My+Game)](https://git.io/typing-svg)
+
 ## Who am I?  
 From numbers to narratives, I connect the dots—whether it's data, business growth, or self-improvement. Every dataset is a chessboard, and I play to win.
 
