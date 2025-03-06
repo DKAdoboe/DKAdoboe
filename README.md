@@ -1,6 +1,8 @@
 # Hey there I am Dela Adoboe
 
 ## Who am I?  
+From numbers to narratives, I connect the dots—whether it's data, business growth, or self-improvement. Every dataset is a chessboard, and I play to win.
+
 Just a curious mind wandering through the world of data, trying to make sense of all those numbers. If data had a fan club, I'd probably be the vice president.
 
 ---
