@@ -1,6 +1,4 @@
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&width=435&lines=Hey+there%2C+I'm+Dela+Adoboe!)](https://git.io/typing-svg)
+# Hay there I am Dela Adoboe
 
 ## Who am I?  
 Just a curious mind wandering through the world of data, trying to make sense of all those numbers. If data had a fan club, I'd probably be the vice president.
