@@ -1,4 +1,4 @@
-# Hay there I am Dela Adoboe
+# Hey there I am Dela Adoboe
 
 ## Who am I?  
 Just a curious mind wandering through the world of data, trying to make sense of all those numbers. If data had a fan club, I'd probably be the vice president.
